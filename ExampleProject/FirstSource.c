@@ -7,7 +7,7 @@
  *
  *
  *
- //creazione di una nuova funzione
+ //creazione di una nuova funzione speciale
 
 
 
