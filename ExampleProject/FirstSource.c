@@ -7,7 +7,9 @@
  *
  *
  *
+<<<<<<< HEAD
  //creazione di una nuova funzione
+
 
 
 
