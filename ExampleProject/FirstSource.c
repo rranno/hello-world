@@ -7,9 +7,9 @@
  *
  *
  *
-<<<<<<< HEAD
- //creazione di una nuova funzione
 
+ //creazione di una nuova funzione
+//funzione 1 scritta in locale
 
 
 
