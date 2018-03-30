@@ -24,7 +24,7 @@
 
 
 
-funzione remota 1
+
 
 
 funzione remota 2
